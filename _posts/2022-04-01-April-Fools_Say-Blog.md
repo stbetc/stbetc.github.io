@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## A Blog is born
 
