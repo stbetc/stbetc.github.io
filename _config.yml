@@ -5,9 +5,7 @@ tagline: "a wiki bloggy space"
 
 description: "a dumping ground for misc info, text, jpegs and some thinking"
 
-footer_description:
-  'a dumping ground for misc info, text, jpegs and some thinking'
-# notes_url: "https://enjoyment-work.netlify.app"
+footer_description: 'a dumping ground for misc info, text, jpegs and some thinking'
 
 profile_pic: "https://avatars.githubusercontent.com/u/102425282"
 favicon: /assets/img/favicon.png
