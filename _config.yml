@@ -1,17 +1,11 @@
 # Site Data
-title: "Enjoyment Work"
-tagline: " — a Digital Garden 🌱"
-name: "Brennan Kenneth Brown"
-author_bio:
-  "Hey there! My name is Brennan, I'm a 24-year-old Métis web developer and content strategist from Winnipeg,
-  Manitoba and currently reside in Calgary, Alberta. I've recently compeleted a Full Stack Developer Program
-  at EvolveU, and I'm looking to help those that need web development work done, or searching for ideas and
-  management for their next content project."
-description: "A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten."
+title: "/jd"
+tagline: " — a wiki bloggy space"
+name: "/jd"
+
+description: "a dumping ground for misc info, text, jpegs and some thinking"
 footer_description:
-  'The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the
-  resulting "showpiece" and more on the process, care, and craft it takes to get there. While not everybody
-  has or works in a dirt garden, we all share a familiarity with the idea of what a garden is.'
+  'a dumping ground for misc info, text, jpegs and some thinking'
 notes_url: "https://enjoyment-work.netlify.app"
 profile_pic: "https://brennanbrown.ca/img/avatar.jpg"
 favicon: /assets/img/favicon.png
@@ -21,12 +15,12 @@ theme_color: white
 encoding: utf-8
 
 # Links and Social Media
-donate_link: https://ko-fi.com/brennanbrown
+donate_link: 
 repository: https://github.com/brennanbrown/enjoyment-work
-github: https://github.com/brennanbrown
-twitter: https://twitter.com/brennankbrown
-portfolio: https://brennanbrown.ca
-email: mail@brennanbrown.ca
+github: 
+twitter: https://twitter.com/redjade_hu
+portfolio: 
+email: jdmakemedia@gmail.com
 
 # Build Settings
 theme: null
