@@ -5,6 +5,5 @@ published: true
 
 how many times did I get this far and not go further?
 
-![Handala.png]({{site.baseurl}}/posts/Handala.png)
 
-#cats
+![my available choices of parties to vote for]({{site.baseurl}}/_posts/safe_image-2.jpg width=200)
